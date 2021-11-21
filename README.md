@@ -16,13 +16,13 @@ This app also does XSS checks.
 
 ## Final Product
 
-!["screenshot of Initial page"](#)
+!["screenshot of Initial page"](https://github.com/gouthamikolla/gow-tweeter/blob/master/docs/Initial-Page.png)
 
-!["screenshot of New Tweet Post page"](#)
+!["screenshot of New Tweet Post page"](https://github.com/gouthamikolla/gow-tweeter/blob/master/docs/Post-New-Tweet.png)
 
-!["screenshot of Empty Tweet Error"](#)
+!["screenshot of Empty Tweet Error"](https://github.com/gouthamikolla/gow-tweeter/blob/master/docs/Empty-Tweet-Check.png)
 
-!["screenshot of Tweet Length Error"](#)
+!["screenshot of Tweet Length Error"](https://github.com/gouthamikolla/gow-tweeter/blob/master/docs/Tweet-Length-Validation.png)
 
 
 ## Dependencies
