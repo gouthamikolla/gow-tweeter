@@ -27,5 +27,8 @@ This app also does XSS checks.
 
 ## Dependencies
 
-- Express
-- Node 5.10.x or above
+- body-parser
+- chance
+- express
+- Node
+- md5
